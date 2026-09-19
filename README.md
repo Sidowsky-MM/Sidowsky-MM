@@ -52,7 +52,7 @@ Deliverables: `Technical Reports` • `BOM & Assembly Packages` • `Converter D
   Specialization: Electronic Instrumentation
   Thesis: Comparative analysis of selected DC/DC converter topologies and output filters for EMI and ripple reduction (including Active EMI and Active Ripple Filters).
 
-* [Wroclaw University of Science and Technology](https://pwr.edu.pl/) | Engineer Degree (B.Eng. / Inżynier) in Electronics (Oct 2020 – Jan 2024)
+* [Wroclaw University of Science and Technology](https://pwr.edu.pl/) | Engineer Degree (B.Eng.) in Electronics (Oct 2020 – Jan 2024)
   Specialization: Electronic Instrumentation
   Thesis: Mobile Electronic Medical Assistant focusing on applicable standards and regulatory requirements.
 
@@ -60,4 +60,4 @@ Deliverables: `Technical Reports` • `BOM & Assembly Packages` • `Converter D
 
 ### 📫 Contact
 
-[![](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sidowsky-MM) [![](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sidowsky-MM) [![](https://img.shields.io/badge/DISCORD-CHAT-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com) [![](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
