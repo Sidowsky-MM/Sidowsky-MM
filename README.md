@@ -1,67 +1,67 @@
-# mgr inż. Mateusz Miechowicz
+# M.Eng. Mateusz Miechowicz
 
-Inżynier elektroniki ze specjalnością Aparatura Elektroniczna (Politechnika Wrocławska). Specjalizuję się w projektowaniu wielowarstwowych płytek drukowanych PCB w środowisku Altium Designer, topologiach przetwornic DC/DC, filtracji zaburzeń EMI i tętnień (filtry aktywne mocy AEF/ARF), a także prototypowaniu, montażu SMT/THT i walidacji systemów wbudowanych.
+Electronics engineer specializing in Electronic Instrumentation (Wroclaw University of Science and Technology). Experienced in multilayer PCB design using Altium Designer, DC/DC resonant converter development, embedded system prototyping, SMT/THT soldering, and pick and place machinery operation with a focus on technical reliability and safety standards.
 
-* Lokalizacja: Zielona Góra, Polska
-* E-mail: matimiechowicz@gmail.com
-* Uprawnienia: SEP G1 (Eksploatacja do 1 kV wraz z aparaturą kontrolno-pomiarową)
-
----
-
-### Doświadczenie zawodowe i inżynierskie
-
-* Ekoenergetyka-Polska S.A. | Projektant Elektroniki (Hardware)
-  Projektowanie rezonansowych przetwornic DC/DC w zespole hardware.
-  Przygotowywanie pełnej dokumentacji technicznej, zestawień materiałowych (BOM) oraz plików produkcyjnych (Gerber, ODB++, pick and place).
-  Walidacja laboratoryjna prototypów we współpracy z zespołami firmware i mechaniki.
-
-* Koło Naukowe PWr Aerospace | Członek Zespołu Elektroniki
-  Projektowanie i realizacja modułów elektronicznych na potrzeby konkursów inżynieryjnych (CanSat).
-  Udział w projektach badawczych i warsztatach z zakresu awioniki oraz elektroniki kosmicznej.
-
-* Lasertex | Praktykant
-  Programowanie i obsługa maszyn automatycznego montażu komponentów pick and place.
-  Kontrola jakości montażu pakietów PCB, inspekcja optyczna komponentów.
-  Zarządzanie stanem magazynowym elementów elektronicznych.
+* Location: Zielona Gora, Poland
+* Email: matimiechowicz@gmail.com
+* Certification: SEP G1 qualification license (operation and maintenance up to 1 kV including control and measurement instrumentation)
 
 ---
 
-### Edukacja
+### Professional and Practical Experience
 
-* Politechnika Wrocławska | Magister inżynier (lut 2025 – lip 2026)
-  Kierunek: Elektronika, Specjalność: Aparatura Elektroniczna
-  Temat pracy: Analiza porównawcza wybranych topologii przetwornic DC/DC oraz filtrów wyjściowych pod kątem redukcji zakłóceń i tętnień (w tym filtry aktywne mocy ActiveEmiFilter i ActiveRippleFilter).
+* Ekoenergetyka-Polska S.A. | Electronics Designer (Hardware Development Team)
+  Designed DC/DC resonant converters within the hardware development division.
+  Prepared technical documentation, bills of materials (BOM), and manufacturing outputs (Gerber files, assembly drawings, pick and place data).
+  Collaborated with firmware, mechanical, and testing teams on hardware prototype validation and design improvements.
 
-* Politechnika Wrocławska | Inżynier (paź 2020 – sty 2024)
-  Kierunek: Elektronika, Specjalność: Aparatura Elektroniczna
-  Temat pracy: Mobilny Elektroniczny Asystent Medyczny (ze szczególnym uwzględnieniem norm medycznych).
+* Aerospace Students' Scientific Association | Team Member
+  Participated in technical projects and engineering workshops focused on aerospace electronics.
+  Contributed to design and manufacturing of CanSat electronic modules for student competitions.
 
----
-
-### Wybrane projekty sprzętowe
-
-* Przetwornice DC/DC i filtry aktywne: opracowanie ponad 10 wielowarstwowych płytek PCB (w tym 4-warstwowych ze zdefiniowanym stosem warstw) dedykowanych topologiom impulsowym oraz redukcji tętnień.
-* MEMA (Mobile Electronic Medical Assistant): mobilne urządzenie medyczne wspomagające diagnostykę i lokomocję osób starszych, opracowane z zachowaniem norm bezpieczeństwa aparatury elektromedycznej.
-* Węzeł czujnikowy UV: autonomiczny moduł sensora ultrafioletu z układem zarządzania zasilaniem i ładowaniem ogniw LIR2450.
-* Płyty ewaluacyjne MCU i matryce LED: projektowanie platform deweloperskich mikrokontrolerów oraz modułów driverów LED o wysokiej gęstości upakowania.
-* Laserowy miernik odległości: optoelektroniczny tor pomiarowy wraz z obróbką sygnału.
+* Lasertex | Intern
+  Performed quality control of electronic components and assembled PCB units for laser measurement systems.
+  Operated and assisted in programming automated pick and place machinery, monitoring production parameters.
+  Contributed to component traceability and inventory management.
 
 ---
 
-### Umiejętności techniczne
+### Education
 
-* Projektowanie PCB i EDA: Altium Designer (zaawansowane projektowanie wielowarstwowe, DRC, generowanie danych produkcyjnych), KiCad, Eagle.
-* Symulacje obwodowe i termiczne: LTspice, QSpice, PSpice (układy analogowe TI), Ansys (analiza termiczna), MATLAB.
-* Programowanie i systemy cyfrowe: C/C++ (oprogramowanie układowe mikrokontrolerów STM32/ARM), Python (skrypty pomiarowe, Flask, SQLite3), Verilog/VHDL (projekty bloków funkcjonalnych FPGA), Pascal.
-* Modelowanie 3D i mechanika: Fusion 360 (projektowanie obudów i integracja ECAD-MCAD), AutoCAD (dokumentacja 2D), PrusaSlicer (druk 3D FDM).
-* Narzędzia dokumentacji: Overleaf (LaTeX), pakiety biurowe (zaawansowane arkusze kalkulacyjne do obliczeń przetwornic).
-* Warsztat i produkcja: lutowanie precyzyjne SMD/THT, obsługa maszyn Pick and Place, praca z oscyloskopami cyfrowymi, generatorami i analizatorami widma.
+* Wroclaw University of Science and Technology | Master of Engineering in Electronics (Feb 2025 – Present)
+  Field: Electronics, Specialization: Electronic Instrumentation
+  Coursework and research: hardware solutions including MCU evaluation boards, high-density LED matrix circuits, and autonomous sensor nodes.
+
+* Wroclaw University of Science and Technology | Bachelor of Engineering in Electronics (Oct 2020 – Jan 2024)
+  Field: Electronics, Specialization: Electronic Instrumentation
+  Thesis: Mobile Electronic Medical Assistant focusing on applicable standards and regulatory requirements.
 
 ---
 
-### Statystyki GitHub
+### Selected Hardware Projects
+
+* DC/DC Converters and Multilayer PCBs: designed over a dozen printed circuit boards in Altium Designer, including 4-layer stackups, solar-powered Li-Ion chargers, and power conversion stages.
+* Mobile Electronic Medical Assistant (MEMA): mobile instrumentation device assisting elderly care and diagnostics, designed under medical equipment safety considerations.
+* UV Sensor Node: autonomous environmental monitoring module featuring LIR2450 rechargeable battery management, power optimization, and data logging.
+* MCU Evaluation Boards and LED Driver Arrays: hardware development platforms for microcontroller validation and high-density LED driving.
+* Laser Triangulation Distance Meter: optical electronic measurement front-end with analog signal conditioning.
+
+---
+
+### Technical Skills
+
+* PCB Design and EDA: Altium Designer (schematic capture, multilayer layout, DRC, DFM, production package export), KiCad, Eagle.
+* Circuit and System Simulation: LTspice, QSpice, PSpice, MATLAB (data processing and modeling).
+* Programming and Digital Systems: C, C++ (embedded systems firmware, STM32 microcontrollers), Python (automation, measurement scripting), Verilog and VHDL (FPGA functional modules).
+* Mechanical and CAD: Fusion 360 (enclosures and ECAD-MCAD integration), AutoCAD (2D drafting), PrusaSlicer (FDM 3D printing).
+* Production and Lab Equipment: pick and place machinery operation, precision SMD/THT manual soldering, digital oscilloscopes, spectrum analyzers, signal generators.
+* Documentation: Overleaf (LaTeX), MS Office suite (converter design spreadsheets, technical reports).
+
+---
+
+### GitHub Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidowsky-MM&show_icons=true&theme=dark" alt="Statystyki GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidowsky-MM&layout=compact&theme=dark" alt="Używane technologie" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sidowsky-MM&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidowsky-MM&layout=compact&theme=dark" alt="Languages" />
 </p>
