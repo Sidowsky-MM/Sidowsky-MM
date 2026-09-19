@@ -26,7 +26,7 @@ Design Domains: `4-Layer PCB Stackups` • `Impedance Control` • `Resonant DC/
 
 [![](https://img.shields.io/badge/C%2B%2B-004482?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/) [![](https://img.shields.io/badge/C-00599c?style=flat-square&logo=c&logoColor=white)](https://en.cppreference.com/w/c) [![](https://img.shields.io/badge/PYTHON-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![](https://img.shields.io/badge/VHDL%20%2F%20VERILOG-2c3e50?style=flat-square)](https://standards.ieee.org/) [![](https://img.shields.io/badge/PASCAL-8a2be2?style=flat-square)](https://www.freepascal.org/)
 
-Platforms & Architectures: [STM32 (ARM Cortex-M)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html) • ESP32 • FPGA Modular Units • Ultra-Low-Power Sensing Nodes • CanSat Avionics
+Platforms & Architectures: `STM32 (ARM Cortex-M)` • `ESP32` • `FPGA Modular Units` • `Ultra-Low-Power Sensing Nodes` • `CanSat Avionics`
 
 ---
 
