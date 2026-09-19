@@ -1,6 +1,6 @@
 # Hi there, I'm Mateusz 👋
 
-Electronics Engineering M.Eng. graduate working as a Hardware Electronics Designer[cite: 10, 11]. I design hardware solutions end-to-end, taking projects from circuit simulation and multilayer PCB layout in Altium Designer to SMT assembly, lab validation of resonant converters, and firmware integration[cite: 10, 11].
+Electronics Engineering M.Eng. graduate working as a Hardware Electronics Designer. I design hardware solutions end-to-end, taking projects from circuit simulation and multilayer PCB layout in Altium Designer to SMT assembly, lab validation of resonant converters, and firmware integration.
 
 ---
 
@@ -26,7 +26,7 @@ Design Domains: `4-Layer PCB Stackups` • `Impedance Control` • `Resonant DC/
 
 [![](https://img.shields.io/badge/C%2B%2B-004482?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/) [![](https://img.shields.io/badge/C-00599c?style=flat-square&logo=c&logoColor=white)](https://en.cppreference.com/w/c) [![](https://img.shields.io/badge/PYTHON-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![](https://img.shields.io/badge/VHDL%20%2F%20VERILOG-2c3e50?style=flat-square)](https://standards.ieee.org/) [![](https://img.shields.io/badge/PASCAL-8a2be2?style=flat-square)](https://www.freepascal.org/)
 
-Platforms & Architectures: `STM32 (ARM Cortex-M)` • `ESP32` • `FPGA Modular Units` • `Ultra-Low-Power Sensing Nodes` • `CanSat Avionics`
+Platforms & Architectures: [STM32 (ARM Cortex-M)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html) • ESP32 • FPGA Modular Units • Ultra-Low-Power Sensing Nodes • CanSat Avionics
 
 ---
 
@@ -48,99 +48,40 @@ Deliverables: `Technical Reports` • `BOM & Assembly Packages` • `Converter D
 
 ### 💼 Professional & Practical Experience
 
-#### Ekoenergetyka-Polska S.A.
-![](https://img.shields.io/badge/ROLE-ELECTRONICS%20DESIGNER-0284c7?style=flat-square) ![](https://img.shields.io/badge/PERIOD-SEP%202024%20--%20FEB%202025-475569?style=flat-square) ![](https://img.shields.io/badge/FOCUS-HARDWARE%20DEVELOPMENT-0f766e?style=flat-square)[cite: 10, 11]
+* [Ekoenergetyka-Polska S.A.](https://ekoenergetyka.com.pl/) | Electronics Designer (Hardware Development Team) (Sep 2024 – Feb 2025)
+  Designed DC/DC resonant converters within the hardware development division.
+  Prepared documentation, bills of materials (BOM), and manufacturing outputs (Gerber, assembly drawings, pick and place data).
+  Collaborated with firmware, mechanical, and testing teams on prototype validation.
 
-* Designed DC/DC resonant converters within the hardware development division[cite: 10, 11].
-* Prepared complete technical packages: bills of materials (BOM), Gerber manufacturing files, and pick-and-place outputs[cite: 10, 11].
-* Validated prototypes in the laboratory together with firmware and mechanical engineering teams[cite: 10, 11].
+* [PWr Aerospace Students' Scientific Association](https://aerospace.pwr.edu.pl/) | Team Member (Oct 2023 – Present)
+  Participated in technical projects and workshops focused on aerospace electronics.
+  Contributed to design and manufacturing of CanSat electronic modules.
 
-Stack: `Altium Designer` • `Resonant Topologies` • `Hardware Validation` • `BOM Management`[cite: 10]
-
----
-
-#### PWr Aerospace Students' Scientific Association
-![](https://img.shields.io/badge/ROLE-TEAM%20MEMBER-0284c7?style=flat-square) ![](https://img.shields.io/badge/PERIOD-OCT%202023%20--%20PRESENT-475569?style=flat-square) ![](https://img.shields.io/badge/FOCUS-SPACE%20ELECTRONICS-6d28d9?style=flat-square)[cite: 10, 11]
-
-* Developed and manufactured electronic subsystems for student engineering challenges (CanSat)[cite: 10, 11].
-* Participated in practical engineering workshops covering aerospace electronics and avionics modules[cite: 10, 11].
-
-Stack: `CanSat Avionics` • `Telemetry Modules` • `Embedded Hardware`[cite: 10, 11]
-
----
-
-#### Lasertex
-![](https://img.shields.io/badge/ROLE-INTERN-0284c7?style=flat-square) ![](https://img.shields.io/badge/PERIOD-MAR%202022%20--%20JUN%202022-475569?style=flat-square) ![](https://img.shields.io/badge/FOCUS-SMT%20PRODUCTION-ca8a04?style=flat-square)[cite: 10, 11]
-
-* Performed quality inspection on discrete components and assembled PCB units for laser measurement systems[cite: 10, 11].
-* Operated and assisted in programming automated pick-and-place machinery while tracking line parameters[cite: 10, 11].
-* Managed component inventories and established production batch traceability[cite: 10, 11].
-
-Stack: `Pick & Place` • `Optical Inspection` • `SMT Assembly` • `Component Traceability`[cite: 10, 11]
+* [Lasertex](https://lasertex.com.pl/) | Intern (Mar 2022 – Jun 2022)
+  Performed quality control of electronic components and assembled PCB units for laser measurement systems.
+  Operated and assisted in programming automated pick and place machinery.
+  Contributed to inventory and component traceability management.
 
 ---
 
 ### 🎓 Education
 
-#### Wroclaw University of Science and Technology
-![](https://img.shields.io/badge/DEGREE-MASTER%20OF%20ENGINEERING-16a34a?style=flat-square) ![](https://img.shields.io/badge/PERIOD-FEB%202025%20--%20JUL%202026-475569?style=flat-square)[cite: 10, 11]
+* [Wroclaw University of Science and Technology](https://pwr.edu.pl/) | Master of Engineering in Electronics (Feb 2025 – Jul 2026)
+  Specialization: Electronic Instrumentation
+  Thesis: Comparative analysis of selected DC/DC converter topologies and output filters for EMI and ripple reduction (including Active EMI and Active Ripple Filters).
 
-* Field: Electronics | Specialization: Electronic Instrumentation[cite: 10, 11]
-* Thesis: Comparative analysis of selected DC/DC converter topologies and output filters for EMI and ripple reduction (Active EMI and Active Ripple Filters)[cite: 10].
-
-Key Coursework: `Power Electronics` • `Active EMI Filters (AEF)` • `Active Ripple Filters (ARF)` • `Switching Noise Mitigation`[cite: 10]
-
----
-
-#### Wroclaw University of Science and Technology
-![](https://img.shields.io/badge/DEGREE-BACHELOR%20OF%20ENGINEERING-16a34a?style=flat-square) ![](https://img.shields.io/badge/PERIOD-OCT%202020%20--%20JAN%202024-475569?style=flat-square)[cite: 10, 11]
-
-* Field: Electronics | Specialization: Electronic Instrumentation[cite: 10, 11]
-* Thesis: Mobile Electronic Medical Assistant focusing on applicable medical standards and regulatory constraints[cite: 10, 11].
-
-Key Focus: `Medical Instrumentation` • `Analog Front-Ends` • `Safety Standards` • `Low-Noise Acquisition`[cite: 10, 11]
+* [Wroclaw University of Science and Technology](https://pwr.edu.pl/) | Bachelor of Engineering in Electronics (Oct 2020 – Jan 2024)
+  Specialization: Electronic Instrumentation
+  Thesis: Mobile Electronic Medical Assistant focusing on applicable standards and regulatory requirements.
 
 ---
 
 ### 🚀 Key Projects
 
-#### Multilayer Switch-Mode Power Supplies
-![](https://img.shields.io/badge/TYPE-HARDWARE%20DESIGN-b91c1c?style=flat-square) ![](https://img.shields.io/badge/PCB-4--LAYER%20STACKUP-0284c7?style=flat-square)[cite: 10, 11]
-
-* Designed over a dozen multilayer circuit boards in Altium Designer, including controlled stackups for resonant DC/DC converters[cite: 10, 11].
-* Integrated active filtering techniques (AEF/ARF) to suppress output ripple and switching transients[cite: 10].
-
-Stack: `Altium Designer` • `4-Layer PCB` • `Active Filters` • `LTspice`[cite: 10, 11]
-
----
-
-#### Mobile Electronic Medical Assistant (MEMA)
-![](https://img.shields.io/badge/TYPE-INSTRUMENTATION-b91c1c?style=flat-square) ![](https://img.shields.io/badge/COMPLIANCE-MEDICAL%20STANDARDS-16a34a?style=flat-square)[cite: 10, 11]
-
-* Prototyped a portable diagnostic system tailored to assist seniors with mobility challenges[cite: 1, 10, 11].
-* Engineered the sensor acquisition chain and board layout with direct emphasis on medical device electrical safety[cite: 10, 11].
-
-Stack: `C/C++` • `Sensor Conditioning` • `Embedded Hardware` • `Medical Standards`[cite: 10, 11]
-
----
-
-#### Autonomous UV Sensing Node
-![](https://img.shields.io/badge/TYPE-IOT%20SENSOR%20NODE-b91c1c?style=flat-square) ![](https://img.shields.io/badge/POWER-LIR2450%20CHARGING-d97706?style=flat-square)[cite: 10, 11]
-
-* Built an ultra-low-power UV monitoring unit equipped with dedicated energy harvesting and management circuits[cite: 10, 11].
-* Implemented on-board recharging for LIR2450 coin cells alongside automated sensor logging[cite: 10, 11].
-
-Stack: `Power Profiling` • `Battery Charging` • `Analog Sensors` • `PCB Layout`[cite: 10, 11]
-
----
-
-#### Laser Triangulation Distance Meter
-![](https://img.shields.io/badge/TYPE-OPTOELECTRONICS-b91c1c?style=flat-square) ![](https://img.shields.io/badge/DOMAIN-ANALOG%20MEASUREMENT-7c3aed?style=flat-square)[cite: 10, 11]
-
-* Designed an optoelectronic measurement front-end utilizing laser triangulation geometry[cite: 10, 11].
-* Formulated low-noise signal conditioning circuits to maximize position sensing accuracy[cite: 10, 11].
-
-Stack: `Optoelectronics` • `Analog Front-End` • `Signal Shaping` • `Prototyping`[cite: 10, 11]
+* Multilayer Switch-Mode Power Supplies: designed over a dozen printed circuit boards (including 4-layer boards) for resonant DC/DC converters and active ripple mitigation systems.
+* Mobile Electronic Medical Assistant (MEMA): battery-operated instrumentation system designed to support diagnostics and rehabilitation for seniors.
+* Autonomous UV Sensing Node: sensor module with integrated LIR2450 charging, power profiling, and data transmission.
+* Laser Triangulation Sensor: precision optical-electronic front-end with analog signal shaping.
 
 ---
 
