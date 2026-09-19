@@ -8,7 +8,7 @@ Electronics Engineering M.Eng. graduate working as a Hardware Electronics Design
 
 #### 🔬 Lab & Hardware Bring-Up
 
-![](https://img.shields.io/badge/SOLDERING-THT%20%26%20SMD-007acc?style=flat-square) [![](https://img.shields.io/badge/SMT%20ASSEMBLY-PICK%20%26%20PLACE%20(HANWHA)-4b5563?style=flat-square)](https://www.hanwhaprecisionmachinery.com/) [![](https://img.shields.io/badge/STANDARDS-IPC--A--610-22c55e?style=flat-square)](https://www.ipc.org/) [![](https://img.shields.io/badge/SEP-G1%201kV-16a34a?style=flat-square)](https://sep.com.pl/)
+![](https://img.shields.io/badge/SOLDERING-THT%20%26%20SMD-007acc?style=flat-square) ![](https://img.shields.io/badge/SMT%20ASSEMBLY-PICK%20%26%20PLACE%20(HANWHA)-4b5563?style=flat-square) ![](https://img.shields.io/badge/STANDARDS-IPC--A--610-22c55e?style=flat-square) [![](https://img.shields.io/badge/SEP-G1%201kV-16a34a?style=flat-square)](https://sep.com.pl/)
 
 Test & Measurement Gear: `Oscilloscopes` • `Spectrum Analyzers` • `Logic Analyzers` • `Signal Generators` • `Electronic Loads` • `Multimeters`
 
@@ -46,42 +46,15 @@ Deliverables: `Technical Reports` • `BOM & Assembly Packages` • `Converter D
 
 ---
 
-### 💼 Professional & Practical Experience
-
-* [Ekoenergetyka-Polska S.A.](https://ekoenergetyka.com.pl/) | Electronics Designer (Hardware Development Team) (Sep 2024 – Feb 2025)
-  Designed DC/DC resonant converters within the hardware development division.
-  Prepared documentation, bills of materials (BOM), and manufacturing outputs (Gerber, assembly drawings, pick and place data).
-  Collaborated with firmware, mechanical, and testing teams on prototype validation.
-
-* [PWr Aerospace Students' Scientific Association](https://aerospace.pwr.edu.pl/) | Team Member (Oct 2023 – Present)
-  Participated in technical projects and workshops focused on aerospace electronics.
-  Contributed to design and manufacturing of CanSat electronic modules.
-
-* [Lasertex](https://lasertex.com.pl/) | Intern (Mar 2022 – Jun 2022)
-  Performed quality control of electronic components and assembled PCB units for laser measurement systems.
-  Operated and assisted in programming automated pick and place machinery.
-  Contributed to inventory and component traceability management.
-
----
-
 ### 🎓 Education
 
-* [Wroclaw University of Science and Technology](https://pwr.edu.pl/) | Master of Engineering in Electronics (Feb 2025 – Jul 2026)
-  Specialization: Electronic Instrumentation
-  Thesis: Comparative analysis of selected DC/DC converter topologies and output filters for EMI and ripple reduction (including Active EMI and Active Ripple Filters).
+* [Wroclaw University of Science and Technology](https://pwr.edu.pl/) | Master of Engineering in Electronics (Feb 2025 – Jul 2026)[cite: 10, 11]
+  Specialization: Electronic Instrumentation[cite: 10, 11]
+  Thesis: Comparative analysis of selected DC/DC converter topologies and output filters for EMI and ripple reduction (including Active EMI and Active Ripple Filters).[cite: 10]
 
-* [Wroclaw University of Science and Technology](https://pwr.edu.pl/) | Bachelor of Engineering in Electronics (Oct 2020 – Jan 2024)
-  Specialization: Electronic Instrumentation
-  Thesis: Mobile Electronic Medical Assistant focusing on applicable standards and regulatory requirements.
-
----
-
-### 🚀 Key Projects
-
-* Multilayer Switch-Mode Power Supplies: designed over a dozen printed circuit boards (including 4-layer boards) for resonant DC/DC converters and active ripple mitigation systems.
-* Mobile Electronic Medical Assistant (MEMA): battery-operated instrumentation system designed to support diagnostics and rehabilitation for seniors.
-* Autonomous UV Sensing Node: sensor module with integrated LIR2450 charging, power profiling, and data transmission.
-* Laser Triangulation Sensor: precision optical-electronic front-end with analog signal shaping.
+* [Wroclaw University of Science and Technology](https://pwr.edu.pl/) | Bachelor of Engineering in Electronics (Oct 2020 – Jan 2024)[cite: 10, 11]
+  Specialization: Electronic Instrumentation[cite: 10, 11]
+  Thesis: Mobile Electronic Medical Assistant focusing on applicable standards and regulatory requirements.[cite: 10, 11]
 
 ---
 
