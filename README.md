@@ -58,9 +58,6 @@ Deliverables: `Technical Reports` • `BOM & Assembly Packages` • `Converter D
 
 ---
 
-### 📊 GitHub Metrics
+### 📫 Contact
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidowsky-MM&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidowsky-MM&layout=compact&theme=dark" alt="Languages" />
-</p>
+[![](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sidowsky-MM) [![](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
