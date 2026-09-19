@@ -3,7 +3,6 @@
 Electronics engineer specializing in Electronic Instrumentation (Wroclaw University of Science and Technology). Experienced in multilayer PCB design using Altium Designer, DC/DC resonant converter development, active power filtering (AEF/ARF), embedded system prototyping, SMT/THT soldering, and pick and place machinery operation with a focus on technical reliability and safety standards.
 
 * Location: Zielona Góra, Poland
-* Email: matimiechowicz@gmail.com
 * Certification: SEP G1 qualification license (up to 1 kV with instrumentation)
 
 ---
