@@ -1,61 +1,75 @@
 # M.Eng. Mateusz Miechowicz
 
-Electronics engineer specializing in Electronic Instrumentation (Wroclaw University of Science and Technology). Experienced in multilayer PCB design using Altium Designer, DC/DC resonant converter development, embedded system prototyping, SMT/THT soldering, and pick and place machinery operation with a focus on technical reliability and safety standards.
+Electronics engineer specializing in Electronic Instrumentation (Wroclaw University of Science and Technology). Experienced in multilayer PCB design using Altium Designer, DC/DC resonant converter development, active power filtering (AEF/ARF), embedded system prototyping, SMT/THT soldering, and pick and place machinery operation with a focus on technical reliability and safety standards.
 
-* Location: Zielona Gora, Poland
+* Location: Zielona Góra, Poland
 * Email: matimiechowicz@gmail.com
-* Certification: SEP G1 qualification license (operation and maintenance up to 1 kV including control and measurement instrumentation)
+* Certification: SEP G1 qualification license (up to 1 kV with instrumentation)
+
+---
+
+### Tech Stack and Tools
+
+#### Lab, Manufacturing and Hardware Bring-Up
+
+![](https://img.shields.io/badge/SOLDERING-THT%20%26%20SMD-007acc?style=flat-square) ![](https://img.shields.io/badge/SMT%20ASSEMBLY-PICK%20%26%20PLACE%20(SM482)-4b5563?style=flat-square) ![](https://img.shields.io/badge/STANDARDS-IPC--A--610%20%7C%20SEP%201kV-22c55e?style=flat-square)
+
+Test and Measurement Gear: Oscilloscopes, Spectrum Analyzers, Logic Analyzers, Signal Generators, Digital Loads, Multimeters
+
+#### PCB Design and Simulation
+
+![](https://img.shields.io/badge/ALTIUM%20DESIGNER-24-00477f?style=flat-square) ![](https://img.shields.io/badge/KICAD-8.0-314cb0?style=flat-square) ![](https://img.shields.io/badge/LTSPICE-XVII-c0392b?style=flat-square) ![](https://img.shields.io/badge/QSPICE-ANALOG-8e44ad?style=flat-square) ![](https://img.shields.io/badge/ANSYS-THERMAL-f39c12?style=flat-square) ![](https://img.shields.io/badge/MATLAB-ANALYSIS-e67e22?style=flat-square)
+
+Design Domains: 4-Layer PCB Stackups, Impedance Control, Resonant DC/DC, Active EMI Filters (AEF), Active Ripple Filters (ARF), Analog Front-Ends
+
+#### Embedded Systems and Microcontrollers
+
+![](https://img.shields.io/badge/C-EMBEDDED-00599c?style=flat-square) ![](https://img.shields.io/badge/C%2B%2B-EMBEDDED-004482?style=flat-square) ![](https://img.shields.io/badge/PYTHON-SCRIPTING%20%26%20FLASK-3776ab?style=flat-square) ![](https://img.shields.io/badge/VHDL%20%2F%20VERILOG-FPGA-2c3e50?style=flat-square)
+
+Platforms and Architectures: STM32 (ARM Cortex-M), ESP32, Low-Power Sensing Nodes
+
+#### Mechanical and 3D CAD
+
+![](https://img.shields.io/badge/FUSION%20360-ECAD%20%2F%20MCAD-f36b21?style=flat-square) ![](https://img.shields.io/badge/AUTOCAD-2D%20DRAFTING-c41525?style=flat-square) ![](https://img.shields.io/badge/PRUSASLICER-3D%20PRINTING%20(FDM)-e65c00?style=flat-square)
 
 ---
 
 ### Professional and Practical Experience
 
-* Ekoenergetyka-Polska S.A. | Electronics Designer (Hardware Development Team)
-  Designed DC/DC resonant converters within the hardware development division.
-  Prepared technical documentation, bills of materials (BOM), and manufacturing outputs (Gerber files, assembly drawings, pick and place data).
-  Collaborated with firmware, mechanical, and testing teams on hardware prototype validation and design improvements.
+* Ekoenergetyka-Polska S.A. | Electronics Designer (Hardware Development Team) (Sep 2024 – Feb 2025)
+  Designed DC/DC resonant converters within the hardware team.
+  Prepared manufacturing outputs (Gerber, BOM, assembly files, pick and place data).
+  Conducted lab testing and prototype validation in collaboration with firmware and mechanics divisions.
 
-* Aerospace Students' Scientific Association | Team Member
-  Participated in technical projects and engineering workshops focused on aerospace electronics.
-  Contributed to design and manufacturing of CanSat electronic modules for student competitions.
+* Aerospace Students' Scientific Association | Team Member (Oct 2023 – Present)
+  Designed electronic modules for space applications and CanSat competitions.
+  Participated in workshops on avionics and telemetry circuits.
 
-* Lasertex | Intern
-  Performed quality control of electronic components and assembled PCB units for laser measurement systems.
-  Operated and assisted in programming automated pick and place machinery, monitoring production parameters.
-  Contributed to component traceability and inventory management.
+* Lasertex | Intern (Mar 2022 – Jun 2022)
+  Operated and assisted in setting up automated SMT pick and place machines.
+  Quality control of assembled PCBs for laser measurement equipment.
+  Traceability and inventory tracking.
 
 ---
 
 ### Education
 
-* Wroclaw University of Science and Technology | Master of Engineering in Electronics (Feb 2025 – Present)
-  Field: Electronics, Specialization: Electronic Instrumentation
-  Coursework and research: hardware solutions including MCU evaluation boards, high-density LED matrix circuits, and autonomous sensor nodes.
+* Wroclaw University of Science and Technology | Master of Engineering in Electronics (Feb 2025 – Jul 2026)
+  Specialization: Electronic Instrumentation
+  Thesis: Comparative analysis of selected DC/DC converter topologies and output filters for EMI and ripple reduction (including Active EMI and Active Ripple Filters).
 
 * Wroclaw University of Science and Technology | Bachelor of Engineering in Electronics (Oct 2020 – Jan 2024)
-  Field: Electronics, Specialization: Electronic Instrumentation
+  Specialization: Electronic Instrumentation
   Thesis: Mobile Electronic Medical Assistant focusing on applicable standards and regulatory requirements.
 
 ---
 
-### Selected Hardware Projects
+### Key Projects
 
-* DC/DC Converters and Multilayer PCBs: designed over a dozen printed circuit boards in Altium Designer, including 4-layer stackups, solar-powered Li-Ion chargers, and power conversion stages.
-* Mobile Electronic Medical Assistant (MEMA): mobile instrumentation device assisting elderly care and diagnostics, designed under medical equipment safety considerations.
-* UV Sensor Node: autonomous environmental monitoring module featuring LIR2450 rechargeable battery management, power optimization, and data logging.
-* MCU Evaluation Boards and LED Driver Arrays: hardware development platforms for microcontroller validation and high-density LED driving.
-* Laser Triangulation Distance Meter: optical electronic measurement front-end with analog signal conditioning.
-
----
-
-### Technical Skills
-
-* PCB Design and EDA: Altium Designer (schematic capture, multilayer layout, DRC, DFM, production package export), KiCad, Eagle.
-* Circuit and System Simulation: LTspice, QSpice, PSpice, MATLAB (data processing and modeling).
-* Programming and Digital Systems: C, C++ (embedded systems firmware, STM32 microcontrollers), Python (automation, measurement scripting), Verilog and VHDL (FPGA functional modules).
-* Mechanical and CAD: Fusion 360 (enclosures and ECAD-MCAD integration), AutoCAD (2D drafting), PrusaSlicer (FDM 3D printing).
-* Production and Lab Equipment: pick and place machinery operation, precision SMD/THT manual soldering, digital oscilloscopes, spectrum analyzers, signal generators.
-* Documentation: Overleaf (LaTeX), MS Office suite (converter design spreadsheets, technical reports).
+* Multilayer Switch-Mode Power Supplies: designed over a dozen printed circuit boards (including 4-layer boards) for resonant DC/DC converters and active ripple mitigation systems.
+* Mobile Electronic Medical Assistant (MEMA): battery-operated instrumentation system designed to support diagnostics and rehabilitation for seniors.
+* Autonomous UV Sensing Node: sensor module with integrated LIR2450 charging, power profiling, and data transmission.
+* Laser Triangulation Sensor: precision optical-electronic front-end with analog signal shaping.
 
 ---
 
