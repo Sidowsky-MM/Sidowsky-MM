@@ -48,8 +48,8 @@ Deliverables: `Technical Reports` • `BOM & Assembly Packages` • `Converter D
 
 ### 🎓 Education
 
-* [![](https://img.shields.io/badge/PWR-MASTER%20DEGREE-8b0000?style=flat-square)](https://pwr.edu.pl/) Wroclaw University of Science and Technology | Electronics `Jul 2026`
-* [![](https://img.shields.io/badge/PWR-ENGINEER%20DEGREE-8b0000?style=flat-square)](https://pwr.edu.pl/) Wroclaw University of Science and Technology | Electronics `Jan 2024`
+* [![](https://img.shields.io/badge/PWR-MASTER%20DEGREE-8b0000?style=flat-square)](https://pwr.edu.pl/) ![](https://img.shields.io/badge/FIELD-ELECTRONICS-00477f?style=flat-square) ![](https://img.shields.io/badge/GRADUATION-JUL%202026-374151?style=flat-square)
+* [![](https://img.shields.io/badge/PWR-ENGINEER%20DEGREE-8b0000?style=flat-square)](https://pwr.edu.pl/) ![](https://img.shields.io/badge/FIELD-ELECTRONICS-00477f?style=flat-square) ![](https://img.shields.io/badge/GRADUATION-JAN%202024-374151?style=flat-square)
 
 ---
 
