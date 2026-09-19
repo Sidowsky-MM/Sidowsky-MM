@@ -48,13 +48,8 @@ Deliverables: `Technical Reports` • `BOM & Assembly Packages` • `Converter D
 
 ### 🎓 Education
 
-* [![](https://img.shields.io/badge/PWR-MASTER%20DEGREE-8b0000?style=flat-square)](https://pwr.edu.pl/) `Jul 2026`
-  Wroclaw University of Science and Technology | Electronics (Electronic Instrumentation)
-  Thesis: Comparative analysis of selected DC/DC converter topologies and output filters for EMI and ripple reduction (including Active EMI and Active Ripple Filters).
-
-* [![](https://img.shields.io/badge/PWR-ENGINEER%20DEGREE-8b0000?style=flat-square)](https://pwr.edu.pl/) `Jan 2024`
-  Wroclaw University of Science and Technology | Electronics (Electronic Instrumentation)
-  Thesis: Mobile Electronic Medical Assistant focusing on applicable standards and regulatory requirements.
+* [![](https://img.shields.io/badge/PWR-MASTER%20DEGREE-8b0000?style=flat-square)](https://pwr.edu.pl/) Wroclaw University of Science and Technology | Electronics `Jul 2026`
+* [![](https://img.shields.io/badge/PWR-ENGINEER%20DEGREE-8b0000?style=flat-square)](https://pwr.edu.pl/) Wroclaw University of Science and Technology | Electronics `Jan 2024`
 
 ---
 
