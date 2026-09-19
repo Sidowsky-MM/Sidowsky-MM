@@ -12,25 +12,25 @@ Electronics engineer specializing in Electronic Instrumentation (Wroclaw Univers
 
 #### Lab, Manufacturing and Hardware Bring-Up
 
-![](https://img.shields.io/badge/SOLDERING-THT%20%26%20SMD-007acc?style=flat-square) ![](https://img.shields.io/badge/SMT%20ASSEMBLY-PICK%20%26%20PLACE%20(SM482)-4b5563?style=flat-square) ![](https://img.shields.io/badge/STANDARDS-IPC--A--610%20%7C%20SEP%201kV-22c55e?style=flat-square)
+![](https://img.shields.io/badge/SOLDERING-THT%20%26%20SMD-007acc?style=flat-square) [![](https://img.shields.io/badge/SMT%20ASSEMBLY-HANWHA%20PICK%20%26%20PLACE-4b5563?style=flat-square)](https://www.hanwhaprecisionmachinery.com/) [![](https://img.shields.io/badge/STANDARDS-IPC--A--610-22c55e?style=flat-square)](https://www.ipc.org/) [![](https://img.shields.io/badge/SEP-G1%201kV-16a34a?style=flat-square)](https://sep.com.pl/)
 
 Test and Measurement Gear: Oscilloscopes, Spectrum Analyzers, Logic Analyzers, Signal Generators, Digital Loads, Multimeters
 
 #### PCB Design and Simulation
 
-![](https://img.shields.io/badge/ALTIUM%20DESIGNER-24-00477f?style=flat-square) ![](https://img.shields.io/badge/KICAD-8.0-314cb0?style=flat-square) ![](https://img.shields.io/badge/LTSPICE-XVII-c0392b?style=flat-square) ![](https://img.shields.io/badge/QSPICE-ANALOG-8e44ad?style=flat-square) ![](https://img.shields.io/badge/ANSYS-THERMAL-f39c12?style=flat-square) ![](https://img.shields.io/badge/MATLAB-ANALYSIS-e67e22?style=flat-square)
+[![](https://img.shields.io/badge/ALTIUM%20DESIGNER-OFFICIAL%20SITE-00477f?style=flat-square)](https://www.altium.com/altium-designer) [![](https://img.shields.io/badge/KICAD-8.0-314cb0?style=flat-square)](https://www.kicad.org/) [![](https://img.shields.io/badge/LTSPICE-ANALOG%20DEVICES-c0392b?style=flat-square)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) [![](https://img.shields.io/badge/QSPICE-QORVO-8e44ad?style=flat-square)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice) [![](https://img.shields.io/badge/ANSYS-SIMULATION-f39c12?style=flat-square)](https://www.ansys.com/) [![](https://img.shields.io/badge/MATLAB-MATHWORKS-e67e22?style=flat-square)](https://www.mathworks.com/products/matlab.html)
 
 Design Domains: 4-Layer PCB Stackups, Impedance Control, Resonant DC/DC, Active EMI Filters (AEF), Active Ripple Filters (ARF), Analog Front-Ends
 
 #### Embedded Systems and Microcontrollers
 
-![](https://img.shields.io/badge/C-EMBEDDED-00599c?style=flat-square) ![](https://img.shields.io/badge/C%2B%2B-EMBEDDED-004482?style=flat-square) ![](https://img.shields.io/badge/PYTHON-SCRIPTING%20%26%20FLASK-3776ab?style=flat-square) ![](https://img.shields.io/badge/VHDL%20%2F%20VERILOG-FPGA-2c3e50?style=flat-square)
+[![](https://img.shields.io/badge/C-ISO%20C-00599c?style=flat-square)](https://en.cppreference.com/w/c) [![](https://img.shields.io/badge/C%2B%2B-STANDARD-004482?style=flat-square)](https://isocpp.org/) [![](https://img.shields.io/badge/PYTHON-3.X-3776ab?style=flat-square)](https://www.python.org/) [![](https://img.shields.io/badge/VHDL-STANDARDS-2c3e50?style=flat-square)](https://standards.ieee.org/)
 
-Platforms and Architectures: STM32 (ARM Cortex-M), ESP32, Low-Power Sensing Nodes
+Platforms and Architectures: [STM32 (ARM Cortex-M)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html), ESP32, Low-Power Sensing Nodes
 
 #### Mechanical and 3D CAD
 
-![](https://img.shields.io/badge/FUSION%20360-ECAD%20%2F%20MCAD-f36b21?style=flat-square) ![](https://img.shields.io/badge/AUTOCAD-2D%20DRAFTING-c41525?style=flat-square) ![](https://img.shields.io/badge/PRUSASLICER-3D%20PRINTING%20(FDM)-e65c00?style=flat-square)
+[![](https://img.shields.io/badge/FUSION%20360-AUTODESK-f36b21?style=flat-square)](https://www.autodesk.com/products/fusion-360/overview) [![](https://img.shields.io/badge/AUTOCAD-AUTODESK-c41525?style=flat-square)](https://www.autodesk.com/products/autocad/overview) [![](https://img.shields.io/badge/PRUSASLICER-PRUSA%20RESEARCH-e65c00?style=flat-square)](https://www.prusa3d.com/page/prusaslicer_424/)
 
 ---
 
