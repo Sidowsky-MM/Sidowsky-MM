@@ -48,11 +48,11 @@ Deliverables: `Technical Reports` • `BOM & Assembly Packages` • `Converter D
 
 ### 🎓 Education
 
-* [Wroclaw University of Science and Technology](https://pwr.edu.pl/) | Master of Engineering in Electronics (Feb 2025 – Jul 2026)
+* [Wroclaw University of Science and Technology](https://pwr.edu.pl/) | Master of Engineering (M.Eng.) in Electronics (Feb 2025 – Jul 2026)
   Specialization: Electronic Instrumentation
   Thesis: Comparative analysis of selected DC/DC converter topologies and output filters for EMI and ripple reduction (including Active EMI and Active Ripple Filters).
 
-* [Wroclaw University of Science and Technology](https://pwr.edu.pl/) | Bachelor of Engineering in Electronics (Oct 2020 – Jan 2024)
+* [Wroclaw University of Science and Technology](https://pwr.edu.pl/) | Engineer Degree (B.Eng. / Inżynier) in Electronics (Oct 2020 – Jan 2024)
   Specialization: Electronic Instrumentation
   Thesis: Mobile Electronic Medical Assistant focusing on applicable standards and regulatory requirements.
 
