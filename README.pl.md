@@ -1,7 +1,9 @@
 <p align="right">
-  <a href="README.md">🇬🇧 English</a> |
-  <b>🇵🇱 Polski</b> |
-  <a href="README.de.md">🇩🇪 Deutsch</a>
+  <a href="https://github.com/Sidowsky-MM/Sidowsky-MM/blob/main/README.md" title="English"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="24" height="18" alt="English" /></a>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pl.svg" width="24" height="18" alt="Polski" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/Sidowsky-MM/Sidowsky-MM/blob/main/README.de.md" title="Deutsch"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" width="24" height="18" alt="Deutsch" /></a>
 </p>
 
 # Cześć, jestem Mateusz 👋
