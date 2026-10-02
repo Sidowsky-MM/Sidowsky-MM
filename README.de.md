@@ -1,9 +1,9 @@
 <p align="right">
-  <a href="https://github.com/Sidowsky-MM/Sidowsky-MM/blob/main/README.md" title="English"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="24" height="18" alt="English" /></a>
+  <a href="./README.md" target="_self" title="English"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="24" height="18" alt="English" /></a>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pl.svg" width="24" height="18" alt="Polski" />
+  <a href="./README.pl.md" target="_self" title="Polski"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pl.svg" width="24" height="18" alt="Polski" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Sidowsky-MM/Sidowsky-MM/blob/main/README.de.md" title="Deutsch"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" width="24" height="18" alt="Deutsch" /></a>
+  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" width="24" height="18" alt="Deutsch" />
 </p>
 # Hallo, ich bin Mateusz 👋
 
