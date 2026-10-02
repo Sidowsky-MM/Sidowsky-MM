@@ -1,11 +1,10 @@
 <p align="right">
-  <a href="https://github.com/Sidowsky-MM/Sidowsky-MM/blob/main/README.md" title="English"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="24" height="18" alt="English" /></a>
+  <a href="./README.md" target="_self" title="English"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="24" height="18" alt="English" /></a>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pl.svg" width="24" height="18" alt="Polski" />
   &nbsp;&nbsp;
-  <a href="https://github.com/Sidowsky-MM/Sidowsky-MM/blob/main/README.de.md" title="Deutsch"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" width="24" height="18" alt="Deutsch" /></a>
+  <a href="./README.de.md" target="_self" title="Deutsch"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" width="24" height="18" alt="Deutsch" /></a>
 </p>
-
 # Cześć, jestem Mateusz 👋
 
 Inżynier elektronik (mgr inż.) pracujący na stanowisku Hardware Designer / Konstruktor Elektronik. Realizuję projekty sprzętowe w pełnym cyklu wytwórczym (end-to-end) – od symulacji układowych i projektowania wielowarstwowych obwodów drukowanych w Altium Designer, przez montaż SMT, po laboratoryjną walidację przetwornic rezonansowych oraz integrację z firmware.
