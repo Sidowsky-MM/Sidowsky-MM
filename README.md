@@ -1,6 +1,6 @@
 # Hi there, I'm Mateusz 👋
 
-Electronics Engineering M.Eng. graduate working as a Hardware Electronics Designer. I design hardware solutions end-to-end, taking projects from circuit simulation and multilayer PCB layout in Altium Designer to SMT assembly, lab validation of resonant converters, and firmware integration.
+Electronics Engineer (M.Eng.) graduated from Wrocław University of Science and Technology, specializing in hardware design and development. I design electronics solutions end-to-end, taking projects from circuit simulation and multilayer PCB layout in Altium Designer to SMT assembly, lab validation of resonant converters, and firmware integration.
 
 <details>
 <summary><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pl.svg" width="18" height="13" /> <b>Wersja polska (kliknij, aby rozwinąć)</b></summary>
@@ -8,7 +8,7 @@ Electronics Engineering M.Eng. graduate working as a Hardware Electronics Design
 
 ### Cześć, jestem Mateusz 👋
 
-Inżynier elektronik (mgr inż.) pracujący na stanowisku Hardware Designer / Konstruktor Elektronik. Realizuję projekty sprzętowe w pełnym cyklu wytwórczym (end-to-end) – od symulacji układowych i projektowania wielowarstwowych obwodów drukowanych w Altium Designer, przez montaż SMT, po laboratoryjną walidację przetwornic rezonansowych oraz integrację z firmware.
+Magister inżynier elektroniki, absolwent Politechniki Wrocławskiej, specjalizujący się w projektowaniu i tworzeniu elektroniki. Realizuję projekty sprzętowe w pełnym cyklu wytwórczym (end-to-end) – od symulacji układowych i projektowania wielowarstwowych obwodów drukowanych w Altium Designer, przez montaż SMT, po laboratoryjną walidację przetwornic rezonansowych oraz integrację z firmware.
 
 </details>
 
@@ -18,7 +18,7 @@ Inżynier elektronik (mgr inż.) pracujący na stanowisku Hardware Designer / Ko
 
 ### Hallo, ich bin Mateusz 👋
 
-M.Eng. im Bereich Elektronik, tätig als Hardware-Entwicklungsingenieur. Ich entwickle Hardware-Lösungen von Grund auf (End-to-End) – von der Schaltungssimulation und dem mehrlagigen PCB-Design in Altium Designer über die SMT-Bestückung bis hin zur Laborvalidierung von Resonanzwandlern und Firmware-Integration.
+Absolvent der Technischen Universität Breslau (M.Eng.) mit Spezialisierung auf die Entwicklung von Hardware und Elektronik. Ich realisiere Elektroniklösungen über den gesamten Entwicklungszyklus hinweg (End-to-End) – von der Schaltungssimulation und dem mehrlagigen PCB-Design in Altium Designer über die SMT-Bestückung bis hin zur Laborvalidierung von Resonanzwandlern und Firmware-Integration.
 
 </details>
 
