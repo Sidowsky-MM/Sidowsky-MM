@@ -1,3 +1,8 @@
+<p align="right">
+  <b>🇬🇧 English</b> |
+  <a href="https://github.com/Sidowsky-MM/Sidowsky-MM/blob/main/README.pl.md">🇵🇱 Polski</a> |
+  <a href="https://github.com/Sidowsky-MM/Sidowsky-MM/blob/main/README.de.md">🇩🇪 Deutsch</a>
+</p>
 # Hi there, I'm Mateusz 👋
 
 Electronics Engineering M.Eng. graduate working as a Hardware Electronics Designer. I design hardware solutions end-to-end, taking projects from circuit simulation and multilayer PCB layout in Altium Designer to SMT assembly, lab validation of resonant converters, and firmware integration.
