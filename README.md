@@ -1,13 +1,26 @@
-<p align="right">
-  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="24" height="18" alt="English" />
-  &nbsp;&nbsp;
-  <a href="./README.pl.md" target="_self" title="Polski"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pl.svg" width="24" height="18" alt="Polski" /></a>
-  &nbsp;&nbsp;
-  <a href="./README.de.md" target="_self" title="Deutsch"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" width="24" height="18" alt="Deutsch" /></a>
-</p>
 # Hi there, I'm Mateusz 👋
 
 Electronics Engineering M.Eng. graduate working as a Hardware Electronics Designer. I design hardware solutions end-to-end, taking projects from circuit simulation and multilayer PCB layout in Altium Designer to SMT assembly, lab validation of resonant converters, and firmware integration.
+
+<details>
+<summary><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pl.svg" width="18" height="13" /> <b>Wersja polska (kliknij, aby rozwinąć)</b></summary>
+<br>
+
+### Cześć, jestem Mateusz 👋
+
+Inżynier elektronik (mgr inż.) pracujący na stanowisku Hardware Designer / Konstruktor Elektronik. Realizuję projekty sprzętowe w pełnym cyklu wytwórczym (end-to-end) – od symulacji układowych i projektowania wielowarstwowych obwodów drukowanych w Altium Designer, przez montaż SMT, po laboratoryjną walidację przetwornic rezonansowych oraz integrację z firmware.
+
+</details>
+
+<details>
+<summary><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" width="18" height="13" /> <b>Deutsche Version (klicken zum Aufklappen)</b></summary>
+<br>
+
+### Hallo, ich bin Mateusz 👋
+
+M.Eng. im Bereich Elektronik, tätig als Hardware-Entwicklungsingenieur. Ich entwickle Hardware-Lösungen von Grund auf (End-to-End) – von der Schaltungssimulation und dem mehrlagigen PCB-Design in Altium Designer über die SMT-Bestückung bis hin zur Laborvalidierung von Resonanzwandlern und Firmware-Integration.
+
+</details>
 
 ---
 
@@ -55,9 +68,9 @@ Deliverables: `Technical Reports` • `BOM & Assembly Packages` • `Converter D
 
 ### 🎓 Education
 
-[![](https://img.shields.io/badge/PWR-MASTER%20DEGREE-8b0000?style=flat-square)](https://pwr.edu.pl/) ![](https://img.shields.io/badge/FIELD-ELECTRONICS-00477f?style=flat-square) ![](https://img.shields.io/badge/GRADUATION-JUL%202026-374151?style=flat-square)
+[![](https://img.shields.io/badge/PWr-M.ENG.%20DEGREE-8b0000?style=flat-square)](https://pwr.edu.pl/) ![](https://img.shields.io/badge/MAJOR-ELECTRONICS-00477f?style=flat-square) ![](https://img.shields.io/badge/GRADUATION-JUL%202026-374151?style=flat-square)
 
-[![](https://img.shields.io/badge/PWR-ENGINEER%20DEGREE-8b0000?style=flat-square)](https://pwr.edu.pl/) ![](https://img.shields.io/badge/FIELD-ELECTRONICS-00477f?style=flat-square) ![](https://img.shields.io/badge/GRADUATION-JAN%202024-374151?style=flat-square)
+[![](https://img.shields.io/badge/PWr-B.ENG.%20DEGREE-8b0000?style=flat-square)](https://pwr.edu.pl/) ![](https://img.shields.io/badge/MAJOR-ELECTRONICS-00477f?style=flat-square) ![](https://img.shields.io/badge/GRADUATION-JAN%202024-374151?style=flat-square)
 
 ---
 
