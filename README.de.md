@@ -1,9 +1,10 @@
 <p align="right">
-  <a href="README.md">🇬🇧 English</a> |
-  <a href="README.pl.md">🇵🇱 Polski</a> |
-  <b>🇩🇪 Deutsch</b>
+  <a href="https://github.com/Sidowsky-MM/Sidowsky-MM/blob/main/README.md" title="English"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="24" height="18" alt="English" /></a>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pl.svg" width="24" height="18" alt="Polski" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/Sidowsky-MM/Sidowsky-MM/blob/main/README.de.md" title="Deutsch"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" width="24" height="18" alt="Deutsch" /></a>
 </p>
-
 # Hallo, ich bin Mateusz 👋
 
 M.Eng. im Bereich Elektronik, tätig als Hardware-Entwicklungsingenieur. Ich entwickle Hardware-Lösungen von Grund auf (End-to-End) – von der Schaltungssimulation und dem mehrlagigen PCB-Design in Altium Designer über die SMT-Bestückung bis hin zur Laborvalidierung von Resonanzwandlern und Firmware-Integration.
