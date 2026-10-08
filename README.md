@@ -81,6 +81,15 @@ Focus: `Custom Enclosures` • `ECAD-MCAD Integration` • `Functional 3D Prints
 
 ---
 
+### ⚙️ Rapid Prototyping & Fabrication Machinery
+
+* 3D Printer: [Bambu Lab P1S Combo (with AMS)](https://eu.store.bambulab.com/products/p1s)
+* CNC Router: [SainSmart Genmitsu PROVerXL 4030 / Cubiko CNC](https://www.sainsmart.com/)
+* Laser Cutter & Engraver: [xTool M1 Ultra](https://eu.xtool.com/products/xtool-m1-ultra)
+* Ultrasonic Cleaner: [VEVOR Ultrasonic Cleaner](https://www.vevor.com/)
+
+---
+
 ### 📫 Contact
 
 [![](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sidowsky-MM) [![](https://img.shields.io/badge/DISCORD-CHAT-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com) [![](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
