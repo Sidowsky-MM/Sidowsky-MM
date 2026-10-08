@@ -70,23 +70,15 @@ Focus: `Custom Enclosures` • `ECAD-MCAD Integration` • `Functional 3D Prints
 
 ### 🧰 My Home Lab Equipment
 
-* Scope: [`Siglent SDS 1104X-E (4CH / 100MHz / 1GSa/s)`](https://www.siglent.eu/product/1139249/siglent-sds1104x-e-100mhz-four-channel-oscilloscope)
-* Waveform Generator: [`Siglent SDG1022X Plus (2CH / 25MHz / 16-bit / 1GSa/s)`](https://www.siglent.eu/product/17282989/siglent-sdg1022x-plus-25mhz-1-gsa-s-arbitrary-waveform-generator)
-* Bench DMM: [`UNI-T UT8803E True RMS Bench Multimeter`](https://www.uni-trend.pl/ut8803e-cyfrowy-multimetr-laboratoryjny-p-228.html)
-* Handheld DMM: [`Brymen BM2257`](https://brymen.eu/product/bm2257/)
-* PSU: [`Zhaoxin RXN-305D (0-30V / 0-5A)`](https://botland.store/laboratory-power-supply/6276-laboratory-power-supply-zhaoxin-rxn-305d-30v-5a-5903351240741.html)
-* Soldering Station: [`Geeboon HC24 420W`](https://www.aliexpress.com/item/1005008060887226.html)
-* Digital Microscope: [`TOMLOV Digital Microscope`](https://tomlov.com/products/3d-digital-soldering-microscope)
-* Thermal Imaging: [`FLIR C3-X Compact`](https://www.flir.com/products/c3-x/)
+Instruments: [`Siglent SDS 1104X-E 100MHz 4CH`](https://www.siglent.eu/product/1139249/siglent-sds1104x-e-100mhz-four-channel-oscilloscope) • [`Siglent SDG1022X Plus AWG`](https://www.siglent.eu/product/17282989/siglent-sdg1022x-plus-25mhz-1-gsa-s-arbitrary-waveform-generator) • [`UNI-T UT8803E Bench DMM`](https://www.uni-trend.pl/ut8803e-cyfrowy-multimetr-laboratoryjny-p-228.html) • [`Brymen BM2257`](https://brymen.eu/product/bm2257/) • [`Zhaoxin RXN-305D 30V/5A`](https://botland.store/laboratory-power-supply/6276-laboratory-power-supply-zhaoxin-rxn-305d-30v-5a-5903351240741.html)
+
+Assembly & Inspection: [`Geeboon HC24 420W Station`](https://www.aliexpress.com/item/1005008060887226.html) • [`TOMLOV 3D Digital Microscope`](https://tomlov.com/products/3d-digital-soldering-microscope) • [`FLIR C3-X Compact Thermal Camera`](https://www.flir.com/products/c3-x/)
 
 ---
 
 ### ⚙️ Rapid Prototyping & Fabrication Machinery
 
-* 3D Printer: [`Bambu Lab P1S Combo (with AMS)`](https://eu.store.bambulab.com/products/p1s)
-* CNC Router: [`SainSmart Cubiko CNC`](https://www.sainsmart.com/products/cubiko)
-* Laser Cutter & Engraver: [`xTool M1 Ultra`](https://eu.xtool.com/products/xtool-m1-ultra)
-* Ultrasonic Cleaner: [`VEVOR Ultrasonic Cleaner 3L 120W`](https://allegro.pl/oferta/maszyna-czyszczaca-3l-ultra-sonic-cleaner-z-grzalka-koszowa-i-timerem-120w-17598595127)
+Digital Fabrication: [`Bambu Lab P1S Combo (with AMS)`](https://eu.store.bambulab.com/products/p1s) • [`SainSmart Cubiko CNC Router`](https://www.sainsmart.com/products/cubiko) • [`xTool M1 Ultra Laser`](https://eu.xtool.com/products/xtool-m1-ultra) • [`VEVOR 3L Ultrasonic Cleaner`](https://allegro.pl/oferta/maszyna-czyszczaca-3l-ultra-sonic-cleaner-z-grzalka-koszowa-i-timerem-120w-17598595127)
 
 ---
 
