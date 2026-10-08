@@ -62,31 +62,31 @@ Focus: `Custom Enclosures` • `ECAD-MCAD Integration` • `Functional 3D Prints
 
 | Project | Description | Tech | Repository |
 | :--- | :--- | :--- | :--- |
-| DC-DC Converters with Active Filtering | Comparison and implementation of SEPIC, ZETA, BOOST, and BUCK topologies using active filtering circuitry to minimize voltage ripple and switching noise. | Hardware, Power Electronics, Altium Designer | <a href="https://github.com/Sidowsky-MM/DC-DC-converters-with-ActiveFiltering-trying-to-reduce-noise-and-ripples." style="color: inherit; text-decoration: none;">View Project</a> |
-| MEMA (Mobile Electronic Medical Assistant) | Assistive embedded system designed to support elderly individuals with mobility challenges and movement disorders. | Embedded C, Sensors, STM32 | <a href="https://github.com/Sidowsky-MM/MEMA" style="color: inherit; text-decoration: none;">View Project</a> |
-| MedicalAssistant | Core firmware and sensor acquisition implementation for portable health monitoring and movement assistance. | C, Microcontrollers | <a href="https://github.com/Sidowsky-MM/MedicalAsistant" style="color: inherit; text-decoration: none;">View Project</a> |
+| DC-DC Converters with Active Filtering | Comparison and implementation of SEPIC, ZETA, BOOST, and BUCK topologies using active filtering circuitry to minimize voltage ripple and switching noise. | Hardware, Power Electronics, Altium Designer | [View Project](https://github.com/Sidowsky-MM/DC-DC-converters-with-ActiveFiltering-trying-to-reduce-noise-and-ripples.) |
+| MEMA (Mobile Electronic Medical Assistant) | Assistive embedded system designed to support elderly individuals with mobility challenges and movement disorders. | Embedded C, Sensors, STM32 | [View Project](https://github.com/Sidowsky-MM/MEMA) |
+| MedicalAssistant | Core firmware and sensor acquisition implementation for portable health monitoring and movement assistance. | C, Microcontrollers | [View Project](https://github.com/Sidowsky-MM/MedicalAsistant) |
 
 ---
 
 ### 🧰 My Home Lab Equipment
 
-* Scope: <a href="https://www.siglent.eu/product/1139249/siglent-sds1104x-e-100mhz-four-channel-oscilloscope" style="color: inherit; text-decoration: none;">Siglent SDS 1104X-E (4CH / 100MHz / 1GSa/s)</a>
-* Waveform Generator: <a href="https://www.siglent.eu/product/17282989/siglent-sdg1022x-plus-25mhz-1-gsa-s-arbitrary-waveform-generator" style="color: inherit; text-decoration: none;">Siglent SDG1022X Plus (2CH / 25MHz / 16-bit / 1GSa/s)</a>
-* Bench DMM: <a href="https://www.uni-trend.pl/ut8803e-cyfrowy-multimetr-laboratoryjny-p-228.html" style="color: inherit; text-decoration: none;">UNI-T UT8803E True RMS Bench Multimeter</a>
-* Handheld DMM: <a href="https://brymen.eu/product/bm2257/" style="color: inherit; text-decoration: none;">Brymen BM2257</a>
-* PSU: <a href="https://botland.store/laboratory-power-supply/6276-laboratory-power-supply-zhaoxin-rxn-305d-30v-5a-5903351240741.html" style="color: inherit; text-decoration: none;">Zhaoxin RXN-305D (0-30V / 0-5A)</a>
-* Soldering Station: <a href="https://www.aliexpress.com/item/1005008060887226.html" style="color: inherit; text-decoration: none;">Geeboon HC24 420W</a>
-* Digital Microscope: <a href="https://tomlov.com/products/3d-digital-soldering-microscope" style="color: inherit; text-decoration: none;">TOMLOV Digital Microscope</a>
-* Thermal Imaging: <a href="https://www.flir.com/products/c3-x/" style="color: inherit; text-decoration: none;">FLIR C3-X Compact</a>
+* Scope: [`Siglent SDS 1104X-E (4CH / 100MHz / 1GSa/s)`](https://www.siglent.eu/product/1139249/siglent-sds1104x-e-100mhz-four-channel-oscilloscope)
+* Waveform Generator: [`Siglent SDG1022X Plus (2CH / 25MHz / 16-bit / 1GSa/s)`](https://www.siglent.eu/product/17282989/siglent-sdg1022x-plus-25mhz-1-gsa-s-arbitrary-waveform-generator)
+* Bench DMM: [`UNI-T UT8803E True RMS Bench Multimeter`](https://www.uni-trend.pl/ut8803e-cyfrowy-multimetr-laboratoryjny-p-228.html)
+* Handheld DMM: [`Brymen BM2257`](https://brymen.eu/product/bm2257/)
+* PSU: [`Zhaoxin RXN-305D (0-30V / 0-5A)`](https://botland.store/laboratory-power-supply/6276-laboratory-power-supply-zhaoxin-rxn-305d-30v-5a-5903351240741.html)
+* Soldering Station: [`Geeboon HC24 420W`](https://www.aliexpress.com/item/1005008060887226.html)
+* Digital Microscope: [`TOMLOV Digital Microscope`](https://tomlov.com/products/3d-digital-soldering-microscope)
+* Thermal Imaging: [`FLIR C3-X Compact`](https://www.flir.com/products/c3-x/)
 
 ---
 
 ### ⚙️ Rapid Prototyping & Fabrication Machinery
 
-* 3D Printer: <a href="https://eu.store.bambulab.com/products/p1s" style="color: inherit; text-decoration: none;">Bambu Lab P1S Combo (with AMS)</a>
-* CNC Router: <a href="https://www.sainsmart.com/products/cubiko" style="color: inherit; text-decoration: none;">SainSmart Cubiko CNC</a>
-* Laser Cutter & Engraver: <a href="https://eu.xtool.com/products/xtool-m1-ultra" style="color: inherit; text-decoration: none;">xTool M1 Ultra</a>
-* Ultrasonic Cleaner: <a href="https://allegro.pl/oferta/maszyna-czyszczaca-3l-ultra-sonic-cleaner-z-grzalka-koszowa-i-timerem-120w-17598595127" style="color: inherit; text-decoration: none;">VEVOR Ultrasonic Cleaner 3L 120W</a>
+* 3D Printer: [`Bambu Lab P1S Combo (with AMS)`](https://eu.store.bambulab.com/products/p1s)
+* CNC Router: [`SainSmart Cubiko CNC`](https://www.sainsmart.com/products/cubiko)
+* Laser Cutter & Engraver: [`xTool M1 Ultra`](https://eu.xtool.com/products/xtool-m1-ultra)
+* Ultrasonic Cleaner: [`VEVOR Ultrasonic Cleaner 3L 120W`](https://allegro.pl/oferta/maszyna-czyszczaca-3l-ultra-sonic-cleaner-z-grzalka-koszowa-i-timerem-120w-17598595127)
 
 ---
 
