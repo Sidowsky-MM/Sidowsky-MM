@@ -58,13 +58,6 @@ Focus: `Custom Enclosures` • `ECAD-MCAD Integration` • `Functional 3D Prints
 
 ---
 
-#### 📄 Technical Documentation & Office
-
-[![](https://img.shields.io/badge/OVERLEAF-LATEX-47a141?style=flat-square&logo=overleaf&logoColor=white)](https://www.overleaf.com/) [![](https://img.shields.io/badge/MS%20EXCEL-CALCULATORS-107c41?style=flat-square&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![](https://img.shields.io/badge/MS%20WORD-185abd?style=flat-square&logo=microsoftword&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word) [![](https://img.shields.io/badge/MS%20POWERPOINT-c43e1c?style=flat-square&logo=microsoftpowerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
-
-Deliverables: `Technical Reports` • `BOM & Assembly Packages` • `Converter Design Workbooks` • `Conference Presentations`
-
----
 
 ### 🎓 Education
 
