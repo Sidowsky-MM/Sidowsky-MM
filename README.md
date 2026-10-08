@@ -36,7 +36,7 @@ Test & Measurement Gear: `Oscilloscopes` • `Spectrum Analyzers` • `Logic Ana
 
 #### 📐 PCB Design & Simulation
 
-[![](https://img.shields.io/badge/ALTIUM%20DESIGNER-00477f?style=flat-square&logo=altiumdesigner&logoColor=white)](https://www.altium.com/altium-designer) [![](https://img.shields.io/badge/LTSPICE-c0392b?style=flat-square)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) [![](https://img.shields.io/badge/QSPICE-8e44ad?style=flat-square)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice) [![](https://img.shields.io/badge/ANSYS-THERMAL-f39c12?style=flat-square&logo=ansys&logoColor=white)](https://www.ansys.com/) [![](https://img.shields.io/badge/MATLAB-e67e22?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) [![](https://img.shields.io/badge/KICAD-314cb0?style=flat-square&logo=kicad&logoColor=white)](https://www.kicad.org/) [![](https://img.shields.io/badge/EAGLE-0696d7?style=flat-square&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/eagle-overview) [![](https://img.shields.io/badge/PSPICE-cc0000?style=flat-square)](https://www.ti.com/tool/PSPICE-FOR-TI)
+[![](https://img.shields.io/badge/ALTIUM%20DESIGNER-00477f?style=flat-square&logo=altiumdesigner&logoColor=white)](https://www.altium.com/altium-designer) [![](https://img.shields.io/badge/LTSPICE-c0392b?style=flat-square)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) [![](https://img.shields.io/badge/QSPICE-8e44ad?style=flat-square)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice) [![](https://img.shields.io/badge/ANSYS-THERMAL-f39c12?style=flat-square&logo=ansys&logoColor=white)](https://www.ansys.com/) [![](https://img.shields.io/badge/MATLAB-e67e22?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) [![](https://img.shields.io/badge/ALTIUM-00477f?style=flat-square&logo=altiumdesigner&logoColor=white)](https://www.altium.com/) [![](https://img.shields.io/badge/EAGLE-0696d7?style=flat-square&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/eagle-overview) [![](https://img.shields.io/badge/PSPICE-cc0000?style=flat-square)](https://www.ti.com/tool/PSPICE-FOR-TI)
 
 Design Domains: `4-Layer PCB Stackups` • `Impedance Control` • `Resonant DC/DC` • `Active EMI Filters (AEF)` • `Active Ripple Filters (ARF)` • `Mixed-Signal Routing` • `High-Density LED Arrays`
 
@@ -68,7 +68,7 @@ Focus: `Custom Enclosures` • `ECAD-MCAD Integration` • `Functional 3D Prints
 
 | Project | Description | Tech | Repository |
 | :--- | :--- | :--- | :--- |
-| DC-DC Converters with Active Filtering | Comparison and implementation of SEPIC, ZETA, BOOST, and BUCK topologies using active filtering circuitry to minimize voltage ripple and switching noise. | Hardware, Power Electronics, Altium/KiCad | [View Project](https://github.com/Sidowsky-MM/DC-DC-converters-with-ActiveFiltering-trying-to-reduce-noise-and-ripples) |
+| DC-DC Converters with Active Filtering | Comparison and implementation of SEPIC, ZETA, BOOST, and BUCK topologies using active filtering circuitry to minimize voltage ripple and switching noise. | Hardware, Power Electronics, Altium Designer | [View Project](https://github.com/Sidowsky-MM/DC-DC-converters-with-ActiveFiltering-trying-to-reduce-noise-and-ripples) |
 | MEMA (Mobile Electronic Medical Assistant) | Assistive embedded system designed to support elderly individuals with mobility challenges and movement disorders. | Embedded C, Sensors, STM32 | [View Project](https://github.com/Sidowsky-MM/MEMA) |
 | MedicalAssistant | Core firmware and sensor acquisition implementation for portable health monitoring and movement assistance. | C, Microcontrollers | [View Project](https://github.com/Sidowsky-MM/MedicalAsistant) |
 
@@ -76,12 +76,12 @@ Focus: `Custom Enclosures` • `ECAD-MCAD Integration` • `Functional 3D Prints
 
 ### 🧰 My Home Lab Equipment
 
-* Scope: [Siglent SDS 1104X-E (4CH / 100MHz / 1GSa/s)](https://www.siglent.eu/product/1151614/siglent-sds1104x-e-100mhz-four-channel-digital-oscilloscope)[cite: 2]
-* Waveform Generator: [Siglent SDG1022X Plus (2CH / 25MHz / 16-bit / 1GSa/s)](https://www.siglent.eu/product/17282989/siglent-sdg1022x-plus-25mhz-1-gsa-s-arbitrary-waveform-generator)[cite: 2]
-* Bench DMM: [UNI-T UT8803E True RMS Bench Multimeter](https://meters.uni-trend.com/product/ut8803e/)[cite: 2]
+* Scope: [Siglent SDS 1104X-E (4CH / 100MHz / 1GSa/s)](https://www.siglent.eu/product/1151614/siglent-sds1104x-e-100mhz-four-channel-digital-oscilloscope)
+* Waveform Generator: [Siglent SDG1022X Plus (2CH / 25MHz / 16-bit / 1GSa/s)](https://www.siglent.eu/product/17282989/siglent-sdg1022x-plus-25mhz-1-gsa-s-arbitrary-waveform-generator)
+* Bench DMM: [UNI-T UT8803E True RMS Bench Multimeter](https://meters.uni-trend.com/product/ut8803e/)
 * Handheld DMM: [Brymen BM2257](https://brymen.eu/)
-* PSU: [Zhaoxin RXN-305D (0-30V / 0-5A)](https://botland.store/laboratory-power-supply/6276-laboratory-power-supply-zhaoxin-rxn-305d-30v-5a-5903351240741.html)[cite: 2]
+* PSU: [Zhaoxin RXN-305D (0-30V / 0-5A)](https://botland.store/laboratory-power-supply/6276-laboratory-power-supply-zhaoxin-rxn-305d-30v-5a-5903351240741.html)
 * Logic Analyzer: [WeAct DLA Mini Logic Analyzer](https://github.com/WeActStudio/LogicAnalyzer-DLA)
 * Soldering Station: [Geeboon HC24 420W](https://www.aliexpress.com/item/1005008060887226.html)
-* Digital Microscope: [TOMLOV Digital Microscope](https://tomlov.com/)[cite: 2]
+* Digital Microscope: [TOMLOV Digital Microscope](https://tomlov.com/)
 * Thermal Imaging: [FLIR C3-X Compact](https://www.flir.com/products/c3-x/)
