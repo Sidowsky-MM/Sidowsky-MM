@@ -24,29 +24,6 @@ Absolvent der Technischen Universität Breslau (M.Eng.) mit Spezialisierung auf 
 
 ---
 
-### 🔬 Featured Hardware Projects
-
-| Project | Description | Tech | Repository |
-| :--- | :--- | :--- | :--- |
-| 2-Channel Digital Oscilloscope | 4-Layer PCB designed in KiCad with a custom analog front-end (AFE) and fast digital bus routing. FPGA DAQ engine implementation and MCU control reaching 100MSPS / 20MHz. | KiCad, FPGA, RPi Pico | [View Project](https://github.com/Sidowsky-MM) |
-| 2-Phase Buck Converter | High-power, STM32G474 controlled buck converter reaching 94% efficiency at 8A with 7mVp-p ripple. | KiCad, STM32 | [View Project](https://github.com/Sidowsky-MM) |
-
----
-
-### 🧰 My Home Lab Equipment
-
-* Scope: [Siglent SDS 1104X-E (4CH / 100MHz / 1GSa/s)](https://www.siglent.eu/product/1151614/siglent-sds1104x-e-100mhz-four-channel-digital-oscilloscope)
-* Waveform Generator: [Siglent SDG1022X Plus (2CH / 25MHz / 16-bit / 1GSa/s)](https://www.siglent.eu/product/17282989/siglent-sdg1022x-plus-25mhz-1-gsa-s-arbitrary-waveform-generator)
-* Bench DMM: [UNI-T UT8803E True RMS Bench Multimeter](https://meters.uni-trend.com/product/ut8803e/)
-* Handheld DMM: [Brymen BM2257](https://brymen.eu/)
-* PSU: [Zhaoxin RXN-305D (0-30V / 0-5A)](https://botland.store/laboratory-power-supply/6276-laboratory-power-supply-zhaoxin-rxn-305d-30v-5a-5903351240741.html)
-* Logic Analyzer: [WeAct DLA Mini Logic Analyzer](https://github.com/WeActStudio/LogicAnalyzer-DLA)
-* Soldering Station: [Geeboon HC24 420W](https://www.aliexpress.com/item/1005008060887226.html)
-* Digital Microscope: [TOMLOV Digital Microscope](https://tomlov.com/)
-* Thermal Imaging: [FLIR C3-X Compact](https://www.flir.com/products/c3-x/)
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 #### 🔬 Lab & Hardware Bring-Up
@@ -84,3 +61,27 @@ Focus: `Custom Enclosures` • `ECAD-MCAD Integration` • `Functional 3D Prints
 ### 📫 Contact
 
 [![](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sidowsky-MM) [![](https://img.shields.io/badge/DISCORD-CHAT-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com) [![](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+---
+
+### 🔬 Featured Hardware & Embedded Projects
+
+| Project | Description | Tech | Repository |
+| :--- | :--- | :--- | :--- |
+| DC-DC Converters with Active Filtering | Comparison and implementation of SEPIC, ZETA, BOOST, and BUCK topologies using active filtering circuitry to minimize voltage ripple and switching noise. | Hardware, Power Electronics, Altium/KiCad | [View Project](https://github.com/Sidowsky-MM/DC-DC-converters-with-ActiveFiltering-trying-to-reduce-noise-and-ripples) |
+| MEMA (Mobile Electronic Medical Assistant) | Assistive embedded system designed to support elderly individuals with mobility challenges and movement disorders. | Embedded C, Sensors, STM32 | [View Project](https://github.com/Sidowsky-MM/MEMA) |
+| MedicalAssistant | Core firmware and sensor acquisition implementation for portable health monitoring and movement assistance. | C, Microcontrollers | [View Project](https://github.com/Sidowsky-MM/MedicalAsistant) |
+
+---
+
+### 🧰 My Home Lab Equipment
+
+* Scope: [Siglent SDS 1104X-E (4CH / 100MHz / 1GSa/s)](https://www.siglent.eu/product/1151614/siglent-sds1104x-e-100mhz-four-channel-digital-oscilloscope)[cite: 2]
+* Waveform Generator: [Siglent SDG1022X Plus (2CH / 25MHz / 16-bit / 1GSa/s)](https://www.siglent.eu/product/17282989/siglent-sdg1022x-plus-25mhz-1-gsa-s-arbitrary-waveform-generator)[cite: 2]
+* Bench DMM: [UNI-T UT8803E True RMS Bench Multimeter](https://meters.uni-trend.com/product/ut8803e/)[cite: 2]
+* Handheld DMM: [Brymen BM2257](https://brymen.eu/)
+* PSU: [Zhaoxin RXN-305D (0-30V / 0-5A)](https://botland.store/laboratory-power-supply/6276-laboratory-power-supply-zhaoxin-rxn-305d-30v-5a-5903351240741.html)[cite: 2]
+* Logic Analyzer: [WeAct DLA Mini Logic Analyzer](https://github.com/WeActStudio/LogicAnalyzer-DLA)
+* Soldering Station: [Geeboon HC24 420W](https://www.aliexpress.com/item/1005008060887226.html)
+* Digital Microscope: [TOMLOV Digital Microscope](https://tomlov.com/)[cite: 2]
+* Thermal Imaging: [FLIR C3-X Compact](https://www.flir.com/products/c3-x/)
