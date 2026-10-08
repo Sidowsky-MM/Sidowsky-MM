@@ -58,15 +58,6 @@ Focus: `Custom Enclosures` • `ECAD-MCAD Integration` • `Functional 3D Prints
 
 ---
 
-
-### 🎓 Education
-
-[![](https://img.shields.io/badge/PWr-M.ENG.%20DEGREE-8b0000?style=flat-square)](https://pwr.edu.pl/) ![](https://img.shields.io/badge/MAJOR-ELECTRONICS-00477f?style=flat-square) ![](https://img.shields.io/badge/GRADUATION-JUL%202026-374151?style=flat-square)
-
-[![](https://img.shields.io/badge/PWr-B.ENG.%20DEGREE-8b0000?style=flat-square)](https://pwr.edu.pl/) ![](https://img.shields.io/badge/MAJOR-ELECTRONICS-00477f?style=flat-square) ![](https://img.shields.io/badge/GRADUATION-JAN%202024-374151?style=flat-square)
-
----
-
 ### 📫 Contact
 
 [![](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sidowsky-MM) [![](https://img.shields.io/badge/DISCORD-CHAT-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com) [![](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
