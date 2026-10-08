@@ -58,17 +58,11 @@ Focus: `Custom Enclosures` • `ECAD-MCAD Integration` • `Functional 3D Prints
 
 ---
 
-### 📫 Contact
-
-[![](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sidowsky-MM) [![](https://img.shields.io/badge/DISCORD-CHAT-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com) [![](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
----
-
 ### 🔬 Featured Hardware & Embedded Projects
 
 | Project | Description | Tech | Repository |
 | :--- | :--- | :--- | :--- |
-| DC-DC Converters with Active Filtering | Comparison and implementation of SEPIC, ZETA, BOOST, and BUCK topologies using active filtering circuitry to minimize voltage ripple and switching noise. | Hardware, Power Electronics, Altium Designer | [View Project](https://github.com/Sidowsky-MM/DC-DC-converters-with-ActiveFiltering-trying-to-reduce-noise-and-ripples) |
+| DC-DC Converters with Active Filtering | Comparison and implementation of SEPIC, ZETA, BOOST, and BUCK topologies using active filtering circuitry to minimize voltage ripple and switching noise. | Hardware, Power Electronics, Altium Designer | [View Project](https://github.com/Sidowsky-MM/DC-DC-converters-with-ActiveFiltering-trying-to-reduce-noise-and-ripples.) |
 | MEMA (Mobile Electronic Medical Assistant) | Assistive embedded system designed to support elderly individuals with mobility challenges and movement disorders. | Embedded C, Sensors, STM32 | [View Project](https://github.com/Sidowsky-MM/MEMA) |
 | MedicalAssistant | Core firmware and sensor acquisition implementation for portable health monitoring and movement assistance. | C, Microcontrollers | [View Project](https://github.com/Sidowsky-MM/MedicalAsistant) |
 
@@ -84,3 +78,9 @@ Focus: `Custom Enclosures` • `ECAD-MCAD Integration` • `Functional 3D Prints
 * Soldering Station: [Geeboon HC24 420W](https://www.aliexpress.com/item/1005008060887226.html)
 * Digital Microscope: [TOMLOV Digital Microscope](https://tomlov.com/products/3d-digital-soldering-microscope)
 * Thermal Imaging: [FLIR C3-X Compact](https://www.flir.com/products/c3-x/)
+
+---
+
+### 📫 Contact
+
+[![](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sidowsky-MM) [![](https://img.shields.io/badge/DISCORD-CHAT-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com) [![](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
