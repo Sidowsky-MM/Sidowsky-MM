@@ -76,12 +76,11 @@ Focus: `Custom Enclosures` • `ECAD-MCAD Integration` • `Functional 3D Prints
 
 ### 🧰 My Home Lab Equipment
 
-* Scope: [Siglent SDS 1104X-E (4CH / 100MHz / 1GSa/s)](https://www.siglent.eu/product/1151614/siglent-sds1104x-e-100mhz-four-channel-digital-oscilloscope)
+* Scope: [Siglent SDS 1104X-E (4CH / 100MHz / 1GSa/s)](https://www.siglent.eu/product/1139249/siglent-sds1104x-e-100mhz-four-channel-oscilloscope)
 * Waveform Generator: [Siglent SDG1022X Plus (2CH / 25MHz / 16-bit / 1GSa/s)](https://www.siglent.eu/product/17282989/siglent-sdg1022x-plus-25mhz-1-gsa-s-arbitrary-waveform-generator)
-* Bench DMM: [UNI-T UT8803E True RMS Bench Multimeter](https://meters.uni-trend.com/product/ut8803e/)
-* Handheld DMM: [Brymen BM2257](https://brymen.eu/)
+* Bench DMM: [UNI-T UT8803E True RMS Bench Multimeter](https://www.uni-trend.pl/ut8803e-cyfrowy-multimetr-laboratoryjny-p-228.html)
+* Handheld DMM: [Brymen BM2257](https://brymen.eu/product/bm2257/)
 * PSU: [Zhaoxin RXN-305D (0-30V / 0-5A)](https://botland.store/laboratory-power-supply/6276-laboratory-power-supply-zhaoxin-rxn-305d-30v-5a-5903351240741.html)
-* Logic Analyzer: [WeAct DLA Mini Logic Analyzer](https://github.com/WeActStudio/LogicAnalyzer-DLA)
 * Soldering Station: [Geeboon HC24 420W](https://www.aliexpress.com/item/1005008060887226.html)
-* Digital Microscope: [TOMLOV Digital Microscope](https://tomlov.com/)
+* Digital Microscope: [TOMLOV Digital Microscope](https://tomlov.com/products/3d-digital-soldering-microscope)
 * Thermal Imaging: [FLIR C3-X Compact](https://www.flir.com/products/c3-x/)
