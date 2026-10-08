@@ -64,7 +64,7 @@ Focus: `Custom Enclosures` • `ECAD-MCAD Integration` • `Functional 3D Prints
 | :--- | :--- | :--- | :--- |
 | DC-DC Converters with Active Filtering | Implementation and comparative validation of SEPIC, ZETA, BOOST, and BUCK topologies with active ripple/noise filtering circuitry. | Power Electronics, Hardware, Altium Designer | [View Project](https://github.com/Sidowsky-MM/DC-DC-converters-with-ActiveFiltering-trying-to-reduce-noise-and-ripples) |
 | MLA-868MHz-2.4GHz | Meander Line Antenna (MLA) designed with a u.FL connector for 868 MHz and 2.4 GHz dual-band operation based on SWRA730. | RF Design, PCB Antennas, Altium Designer | [View Project](https://github.com/Sidowsky-MM/MLA-868MHz-2.4GHz) |
-| UFI | MUVDS (Mobile UV Detection System) – lightweight portable device for ultraviolet radiation monitoring. | Embedded, Hardware, Sensors | [View Project](https://github.com/Sidowsky-MM/UFI) |
+| UFI | UV Functional Identification system – lightweight portable UV detection device with dedicated enclosure. | Embedded, Hardware, Sensors | [View Project](https://github.com/Sidowsky-MM/UFI) |
 | MEMA | Mobile Electronic Medical Assistant – assistive hardware solution developed to support elderly individuals with walking difficulties. | Embedded C, STM32, Sensors | [View Project](https://github.com/Sidowsky-MM/MEMA) |
 
 ---
