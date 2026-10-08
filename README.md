@@ -70,15 +70,19 @@ Focus: `Custom Enclosures` • `ECAD-MCAD Integration` • `Functional 3D Prints
 
 ### 🧰 My Home Lab Equipment
 
-Instruments: [`Siglent SDS 1104X-E 100MHz 4CH`](https://www.siglent.eu/product/1139249/siglent-sds1104x-e-100mhz-four-channel-oscilloscope) • [`Siglent SDG1022X Plus AWG`](https://www.siglent.eu/product/17282989/siglent-sdg1022x-plus-25mhz-1-gsa-s-arbitrary-waveform-generator) • [`UNI-T UT8803E Bench DMM`](https://www.uni-trend.pl/ut8803e-cyfrowy-multimetr-laboratoryjny-p-228.html) • [`Brymen BM2257`](https://brymen.eu/product/bm2257/) • [`Zhaoxin RXN-305D 30V/5A`](https://botland.store/laboratory-power-supply/6276-laboratory-power-supply-zhaoxin-rxn-305d-30v-5a-5903351240741.html)
+#### Instruments
 
-Assembly & Inspection: [`Geeboon HC24 420W Station`](https://www.aliexpress.com/item/1005008060887226.html) • [`TOMLOV 3D Digital Microscope`](https://tomlov.com/products/3d-digital-soldering-microscope) • [`FLIR C3-X Compact Thermal Camera`](https://www.flir.com/products/c3-x/)
+[![](https://img.shields.io/badge/SCOPE-SIGLENT%20SDS1104X--E-004482?style=flat-square)](https://www.siglent.eu/product/1139249/siglent-sds1104x-e-100mhz-four-channel-oscilloscope) [![](https://img.shields.io/badge/GENERATOR-SIGLENT%20SDG1022X%20PLUS-00599c?style=flat-square)](https://www.siglent.eu/product/17282989/siglent-sdg1022x-plus-25mhz-1-gsa-s-arbitrary-waveform-generator) [![](https://img.shields.io/badge/BENCH%20DMM-UNI--T%20UT8803E-c41525?style=flat-square)](https://www.uni-trend.pl/ut8803e-cyfrowy-multimetr-laboratoryjny-p-228.html) [![](https://img.shields.io/badge/HANDHELD%20DMM-BRYMEN%20BM2257-e67e22?style=flat-square)](https://brymen.eu/product/bm2257/) [![](https://img.shields.io/badge/PSU-ZHAOXIN%20RXN--305D-2c3e50?style=flat-square)](https://botland.store/laboratory-power-supply/6276-laboratory-power-supply-zhaoxin-rxn-305d-30v-5a-5903351240741.html)
+
+#### Assembly & Inspection
+
+[![](https://img.shields.io/badge/SOLDERING-GEEBOON%20HC24%20420W-f39c12?style=flat-square)](https://www.aliexpress.com/item/1005008060887226.html) [![](https://img.shields.io/badge/MICROSCOPE-TOMLOV%203D%20DIGITAL-4b5563?style=flat-square)](https://tomlov.com/products/3d-digital-soldering-microscope) [![](https://img.shields.io/badge/THERMAL-FLIR%20C3--X%20COMPACT-e65c00?style=flat-square)](https://www.flir.com/products/c3-x/)
 
 ---
 
 ### ⚙️ Rapid Prototyping & Fabrication Machinery
 
-Digital Fabrication: [`Bambu Lab P1S Combo (with AMS)`](https://eu.store.bambulab.com/products/p1s) • [`SainSmart Cubiko CNC Router`](https://www.sainsmart.com/products/cubiko) • [`xTool M1 Ultra Laser`](https://eu.xtool.com/products/xtool-m1-ultra) • [`VEVOR 3L Ultrasonic Cleaner`](https://allegro.pl/oferta/maszyna-czyszczaca-3l-ultra-sonic-cleaner-z-grzalka-koszowa-i-timerem-120w-17598595127)
+[![](https://img.shields.io/badge/3D%20PRINTER-BAMBU%20LAB%20P1S%20COMBO-00ae42?style=flat-square)](https://eu.store.bambulab.com/products/p1s) [![](https://img.shields.io/badge/CNC%20ROUTER-SAINSMART%20CUBIKO-007acc?style=flat-square)](https://www.sainsmart.com/products/cubiko) [![](https://img.shields.io/badge/LASER-XTOOL%20M1%20ULTRA-8e44ad?style=flat-square)](https://eu.xtool.com/products/xtool-m1-ultra) [![](https://img.shields.io/badge/CLEANING-VEVOR%20ULTRASONIC%203L-d35400?style=flat-square)](https://allegro.pl/oferta/maszyna-czyszczaca-3l-ultra-sonic-cleaner-z-grzalka-koszowa-i-timerem-120w-17598595127)
 
 ---
 
