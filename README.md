@@ -64,6 +64,7 @@ Focus: `Custom Enclosures` • `ECAD-MCAD Integration` • `Functional 3D Prints
 | :--- | :--- | :--- | :--- |
 | DC-DC Converters with Active Filtering | Implementation and comparative validation of SEPIC, ZETA, BOOST, and BUCK topologies with active ripple/noise filtering circuitry. | Power Electronics, Hardware, Altium Designer | [View Project](https://github.com/Sidowsky-MM/DC-DC-converters-with-ActiveFiltering-trying-to-reduce-noise-and-ripples) |
 | MLA-868MHz-2.4GHz | Meander Line Antenna (MLA) designed with a u.FL connector for 868 MHz and 2.4 GHz dual-band operation based on SWRA730. | RF Design, PCB Antennas, Altium Designer | [View Project](https://github.com/Sidowsky-MM/MLA-868MHz-2.4GHz) |
+| AI-Board-Soldering-Checker | Deep learning model in MATLAB for automated optical inspection (AOI) and solder defect classification across 5 anomaly classes. | MATLAB, Deep Learning, Computer Vision | [View Project](https://github.com/Sidowsky-MM/AI-Board-Soldering-Checker) |
 | UFI | UV Functional Identification system – lightweight portable UV detection device with dedicated enclosure. | Embedded, Hardware, Sensors | [View Project](https://github.com/Sidowsky-MM/UFI) |
 | MEMA | Mobile Electronic Medical Assistant – assistive hardware solution developed to support elderly individuals with walking difficulties. | Embedded C, STM32, Sensors | [View Project](https://github.com/Sidowsky-MM/MEMA) |
 
@@ -89,4 +90,4 @@ Focus: `Custom Enclosures` • `ECAD-MCAD Integration` • `Functional 3D Prints
 
 ### 📫 Contact
 
-[![](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sidowsky-MM) [![](https://img.shields.io/badge/DISCORD-CHAT-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com) [![](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sidowsky-MM) [![sidowsky](https://img.shields.io/badge/DISCORD-CHAT-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com) [![](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
